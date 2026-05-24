@@ -13,7 +13,6 @@ Usage:
     python bitcoin-stats.py --json                     # JSON output
 
 Support: https://github.com/yourusername/bitcoin-stats
-BTC Tips: 1KPUa9Njq86NJwmwqVmdjZ4oC8eHrXKqf9
 """
 
 import sys
@@ -94,7 +93,6 @@ def display_all_stats():
         print("  │ Unable to fetch mempool data")
     print("  └─────────────────────────────────────────────────────────────┘\n")
 
-    print(f"  💰 BTC Tips: 1KPUa9Njq86NJwmwqVmdjZ4oC8eHrXKqf9")
     print(f"  📦 Source: https://github.com/yourusername/bitcoin-stats\n")
 
 
