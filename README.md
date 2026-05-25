@@ -1,5 +1,9 @@
 # bitcoin-stats
 
+**Support this project:**
+- **BTC Tips:** `1KPUa9Njq86NJwmwqVmdjZ4oC8eHrXKqf9`
+
+
 On-chain Bitcoin network statistics CLI - fees, mempool, blocks, hashrate, and more. Pure Python, no dependencies.
 
 ## Installation
